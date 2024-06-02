@@ -1,0 +1,29 @@
+.scoresTable {
+    background-color: lightseagreen; 
+    flex-direction: column;  
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin: auto;
+    width: 100px;
+}
+
+.scoresContainer {
+    display: flex;
+    padding-top: 30px;
+    background-color: blanchedalmond;
+}
+
+.bioContainer {
+    border: 1px solid black;
+    padding: 0 30px;
+    margin: 30px;
+    background-color: blanchedalmond;
+}
+
+h1,p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-around;
+}
